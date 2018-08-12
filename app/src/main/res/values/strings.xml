@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="menuDescription">Menu of the app. Here the user can choose what he needs</string>
+    <string name="player">Player</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="settings">Settings</string>
+    <string name="showSongLyrics">Show the lyrics of the songs</string>
+    <string name="continueFromLastSong">Continue from last song</string>
+</resources>
